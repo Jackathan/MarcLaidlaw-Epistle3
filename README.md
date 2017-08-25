@@ -31,3 +31,5 @@ If you want to know what I changed in the name swaps, I made a rough list here:
 "Elly Vaunt" 	    	: "Eli Vance"
 
 "Tocsin Island"     : "Aperture Science"
+
+Archive.is backup just in case Valve takes down the Original Post: http://archive.is/uJUHv
