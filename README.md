@@ -2,7 +2,7 @@
 
 I'm archiving this for the world to see.
 
-The original source is Marc Laidlaw's website, at http://www.marclaidlaw.com/epistle-3/
+The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/
 
 If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
